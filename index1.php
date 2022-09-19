@@ -5,7 +5,7 @@
 <?php
 $servername = "localhost";
 $username = "ngoralou_Hwk3";
-$password = "Happygilmore1";
+$password = "Happygilmore1!";
 $dbname = "ngoralou_MainDatabase";
 
 // Create connection
